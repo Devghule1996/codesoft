@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+D:\codesoft task\task\.metadata\.plugins\org.eclipse.jdt.core
+3905519312.index
+707312181.index
+1563396771.index
+1865797976.index
